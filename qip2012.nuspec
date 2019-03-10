@@ -4,7 +4,7 @@
   <metadata>
     <id>qip2012</id>
     <title>QIP IM</title>
-    <version>4.0.9380</version>
+    <version>4.0.9395</version>
     <authors>QIP.ru</authors>
     <owners>zersh</owners>
     <summary>Client for ICQ, Jabber, Mail.ru-agent, vk.com, SIP, Twitter</summary>
@@ -12,12 +12,12 @@
 	Программа предоставляет возможность обмениваться мгновенными сообщениями, совершать видео и аудио звонки, отправлять sms.
  
 QIP 2012 (IM) - is a free application to communicate on the Internet. The program provides an opportunity to exchange instant messages, make video and audio calls, send sms.</description>
-    <projectUrl>http://qip.ru</projectUrl>
+    <projectUrl>https://welcome.qip.ru/im</projectUrl>
     <tags>qip icq xmpp infium chat jabber twitter</tags>
     <copyright>OOO Media Mir</copyright>
-    <licenseUrl>http://wiki.qip.ru/QIP_Infium_EULA</licenseUrl>
+    <licenseUrl>http://wiki.qip.ru/QIP_Client_Software_EULA</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>Small change</releaseNotes>
     <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-qip/Icon.png</iconUrl>
   </metadata>
   <files>
