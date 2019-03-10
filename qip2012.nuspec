@@ -18,7 +18,7 @@ QIP 2012 (IM) - is a free application to communicate on the Internet. The progra
     <licenseUrl>http://wiki.qip.ru/QIP_Infium_EULA</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes></releaseNotes>
-    <iconUrl>https://rawgit.com/zersh01/chocolatey-qip/master/Icon.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/zersh01/chocolatey-qip/Icon.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
